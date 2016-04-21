@@ -1,5 +1,4 @@
-Steccas Music Visualizer
-## Description
+## Steccas Music Visualizer
 Hi! This is a very simple music visualizer written with processing 2 (JAVA), it makes use of minim and g4p libraries.
 
 Read the documentation.pdf for more details.
